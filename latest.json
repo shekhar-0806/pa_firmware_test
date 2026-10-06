@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "model": "PA_PRO",
-  "file": "https://raw.githubusercontent.com/straight-drive/pa_firmware_test/main/PaceAttackPro_App_firmware_v1_0_1.bin",
+   "file": "https://raw.githubusercontent.com/shekhar-0806/pa_firmware_test/main/PaceAttackPro_App_firmware_v1_0_1.bin",
   "size": 3351744,
   "sha256": "c8c8a278b471b56bc74b71821300ab11b2025a0ebb65ef754c72d12fc426068d",
   "notes": "Test release"
